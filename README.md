@@ -1,4 +1,4 @@
-# demon
+# Browser helper daemon
 Browser extension helper demon
 
 
