@@ -1,0 +1,6 @@
+[package]
+name = "buttercupd"
+version = "0.1.0"
+authors = ["Perry Mitchell <perry@perrymitchell.net>"]
+
+[dependencies]
